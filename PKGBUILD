@@ -24,7 +24,7 @@ pkgdesc="A CFF table suroutinizer for FontTools"
 arch=(
   "x86_64"
 )
-url="https://github.com/googlefonts/python-compreffor"
+url="https://github.com/googlefonts/compreffor"
 license=(
   "Apache"
 )
